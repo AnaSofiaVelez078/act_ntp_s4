@@ -30,4 +30,4 @@ lista2 = pedir_lista("Lista 2", cantidad)
 
 lista_combinada = combinar_listas(lista1, lista2)
 
-print("\n✅ Lista combinada:", lista_combinada)
+print("\nLista combinada:", lista_combinada)
